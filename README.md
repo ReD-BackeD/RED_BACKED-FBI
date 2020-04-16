@@ -29,5 +29,5 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 RED_BACKE-FBI.py
+$ python2 RED_BACKED-FBI.py
 ```
