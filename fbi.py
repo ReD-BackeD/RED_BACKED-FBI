@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Facebook Information 
+     Facebook Information Creating By ReD-BackeD
 '''
 ###################################################################
 #                             COLOR
@@ -66,11 +66,10 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
+    Author     ReD-BackeD
     Name       Facebook Information
     Version    Full Version
-    Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Date       08/04/2019
 
 * if you find any errors or problems , please contact
   author
